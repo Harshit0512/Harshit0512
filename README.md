@@ -1,4 +1,4 @@
-## Hey there! I'm Harshit Shankhdhar.<img src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/Hi.gif" width="30px">
+## :man Hey there! I'm Harshit Shankhdhar.<img src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/Hi.gif" width="30px">
 
 <h3>🚀 Data Science enthusiast | Machine Learning enthusiast | C++ | Python | Tableau | Power BI  🚀</h3>
 
