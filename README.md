@@ -3,3 +3,4 @@
 <h2> Hey there! I'm Harshit Shankhdhar.</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
