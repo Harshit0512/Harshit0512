@@ -9,4 +9,7 @@ If you have any questions, happy to answer! just drop me a mail or connect with 
 ![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)
 </br>
 
+Technologies and Knowledge
+[![C++](https://img.shields.io/badge/-C++-00599C?style=circle&logo)]
+
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
