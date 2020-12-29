@@ -4,11 +4,9 @@
 
 If you have any questions, happy to answer! just drop me a mail or connect with me </h3>
 
-<a href="https://www.linkedin.com/in/harshit-shankhdhar-36a144168/">
-  <img align="left" alt="Harshit Shankhdhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.kaggle.com/harshitshankhdhar">
-  <img align="left" alt="Harshit Shankhdhar's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)
+
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
