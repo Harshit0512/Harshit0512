@@ -10,9 +10,9 @@ If you have any questions, happy to answer! just drop me a mail or connect with 
 </br>
 
 Technologies and Knowledge:-</br>
-[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![C](https://img.shields.io/badge/-C-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
