@@ -10,6 +10,6 @@ If you have any questions, happy to answer! just drop me a mail or connect with 
 </br>
 
 Technologies and Knowledge
-[![C++](https://img.shields.io/badge/-C++-00599C?style=circle&logo)]
+![C++](https://img.shields.io/badge/-C++-green?style=circle&logo)
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
