@@ -17,6 +17,6 @@ Technologies and Knowledge:-</br>
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![Power BI](https://img.shields.io/badge/-Power-BI-black?style=flat-square&logo=powerbi&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![PowerBI](https://img.shields.io/badge/-Power-BI-black?style=flat-square&logo=powerbi&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
