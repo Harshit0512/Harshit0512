@@ -16,7 +16,7 @@ Technologies and Knowledge</br>
 
 </br>
 
-<img align="right" alt="IMG" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/data%20science%20img.jpg" width="700" height="120" />
+<img align="right" alt="IMG" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/data%20science%20img.jpg" width="700" height="220" />
   
 
 
