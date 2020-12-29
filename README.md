@@ -4,3 +4,9 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
+
+<p align="left">
+  <img src ="https://github-readme-stats.vercel.app/api?username=Harshit0512&show_icons=true&count_private=true&theme=default&hide_border=true&hide=issues,contribs">
+</p>
+
+⭐️ From [Harshit0512](https://github.com/[Harshit0512])
