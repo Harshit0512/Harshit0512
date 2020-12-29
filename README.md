@@ -12,5 +12,6 @@ If you have any questions, happy to answer! just drop me a mail or connect with 
 Technologies and Knowledge</br>
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
