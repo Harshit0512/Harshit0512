@@ -14,4 +14,10 @@ Technologies and Knowledge</br>
 [![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
+</br>
+
+<img align="right" alt="IMG" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/data%20science%20img.jpg" width="500" height="320" />
+  
+
+
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
