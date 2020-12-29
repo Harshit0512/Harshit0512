@@ -7,6 +7,8 @@ If you have any questions, happy to answer! just drop me a mail or connect with 
 <a href="https://www.linkedin.com/in/harshit-shankhdhar-36a144168/">
   <img align="left" alt="Harshit Shankhdhar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
+<a href="https://www.kaggle.com/harshitshankhdhar">
+  <img align="left" alt="Harshit Shankhdhar's Kaggle" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/kaggle.svg" />
+</a>
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
