@@ -13,7 +13,7 @@ You can connect with me:-
 Programming Languages and Tools:-
 </br>
 
-<img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
