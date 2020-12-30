@@ -1,6 +1,6 @@
 ## Hey there! I'm Harshit Shankhdhar.<img src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/Hi.gif" width="30px">
 
-I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. Currently, I’m a Student, pursuing B.tech in Computer Science and Engineering at Lovely Professional University. Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new conceptes behind any technology.
+I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. Currently, I’m a Student, pursuing B.tech in Computer Science and Engineering at Lovely Professional University. Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new concepts behind any technology.
 
 You can connect with me:-
 
