@@ -20,6 +20,6 @@ Programming Languages and Tools:-
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![MSEXCEL](https://img.shields.io/badge/-MS-Excel-black?style=flat-square&logo=ms-excel&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
