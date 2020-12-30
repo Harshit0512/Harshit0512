@@ -10,7 +10,8 @@ You can connect with me:-
 ![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)
 </br>
 
-Programming Languages and Tools:-</br>
+Programming Languages and Tools:-
+</br>
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
