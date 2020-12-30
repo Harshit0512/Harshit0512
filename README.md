@@ -13,8 +13,6 @@ You can connect with me:-
 Programming Languages and Tools:-
 </br>
 
-<img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
@@ -22,5 +20,6 @@ Programming Languages and Tools:-
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![MSEXCEL](https://img.shields.io/badge/-MS-Excel-black?style=flat-square&logo=ms-excel&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
