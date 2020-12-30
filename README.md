@@ -2,7 +2,7 @@
 
 I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. Currently, I’m a Student, pursuing B.tech in Computer Science and Engineering at Lovely Professional University. Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new conceptes behind any technology.
 
-If you have any questions, happy to answer! just drop me a mail or connect with me.
+You can connect with me:-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
