@@ -23,5 +23,6 @@ Programming Languages and Tools:-
 [![R](https://img.shields.io/badge/-black?style=flat-square&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MS EXCEL](https://img.shields.io/badge/MS%20Excel-darkgreen?style=flat-square&logo=ms-excel&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MS EXCEL](https://img.shields.io/badge/Jupyter-darkred?style=flat-square&logo=jupyter&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![Pandas](https://img.shields.io/badge/Pandas-indigo?style=flat-square&logo=pandas&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
