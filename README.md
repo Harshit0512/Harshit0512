@@ -23,7 +23,7 @@ Programming Languages and Tools:-
 [![R](https://img.shields.io/badge/-black?style=flat-square&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MS EXCEL](https://img.shields.io/badge/MS%20Excel-darkgreen?style=flat-square&logo=ms-excel&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MS EXCEL](https://img.shields.io/badge/Jupyter-darkred?style=flat-square&logo=jupyter&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![Numpy](https://img.shields.io/badge/Numpy-black?style=flat-square&logo=numpy&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![Numpy](https://img.shields.io/badge/Numpy-darkcyan?style=flat-square&logo=numpy&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Pandas](https://img.shields.io/badge/Pandas-indigo?style=flat-square&logo=pandas&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=power-bi&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
