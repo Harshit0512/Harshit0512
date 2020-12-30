@@ -6,7 +6,7 @@ You can connect with me:-
 
 [![Linkedin Badge](https://img.shields.io/badge/-Harshit_Shankhdhar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
 [![Instagram Badge](https://img.shields.io/badge/-Harshit_Shankhdhar-c13584?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_harshit_shankhdhar/)](https://www.instagram.com/_harshit_shankhdhar/)
-[![Github](https://img.shields.io/badge/-Harshit_Shankhdhar-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshit0512)
+[![Github](https://img.shields.io/badge/-Harshit_Shankhdhar-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshit0512)
 [![Kaggle Badge](https://img.shields.io/badge/-Harshit_Shankhdhar-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
 [![Gmail](https://img.shields.io/badge/-Harshit_Shankhdhar-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:harshitshankhdhar320@gmail.com)
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
