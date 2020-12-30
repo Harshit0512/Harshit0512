@@ -5,6 +5,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 You can connect with me:-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshit0512)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
 ![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)
 </br>
