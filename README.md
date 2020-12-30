@@ -8,7 +8,7 @@ You can connect with me:-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c13584?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/_harshit_shankhdhar/)](https://www.instagram.com/_harshit_shankhdhar/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Harshit0512)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/harshitshankhdhar)](https://www.kaggle.com/harshitshankhdhar)
-[![Gmail](https://img.shields.io/badge/-Email%20Id-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshitshankhdhar320@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harshitshankhdhar320@gmail.com)
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
 
