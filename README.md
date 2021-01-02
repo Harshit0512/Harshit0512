@@ -24,7 +24,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![Numpy](https://img.shields.io/badge/Numpy-darkcyan?style=flat-square&logo=numpy&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Pandas](https://img.shields.io/badge/Pandas-indigo?style=flat-square&logo=pandas&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Power BI](https://img.shields.io/badge/Power%20BI-black?style=flat-square&logo=power-bi&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-
 </br>
 
 ### Projects:
