@@ -6,10 +6,10 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ### You can connect with me:-
 
 <a href="https://www.linkedin.com/in/harshit-shankhdhar-36a144168/">
-  <img align="left" alt="Harshit's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Harshit0512">
-  <img align="left" alt="Harshit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.kaggle.com/harshitshankhdhar">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
