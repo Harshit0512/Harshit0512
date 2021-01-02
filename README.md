@@ -36,6 +36,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ### Currently working on projects and learning:-
 -  Digital Assistant.
 -  Titanic Dataset.
--  Learning the concepts of Data Science and Machine Learning and How to deploy the projects.
+-  Learning the concepts of Data Science and Machine Learning.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
