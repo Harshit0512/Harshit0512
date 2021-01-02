@@ -29,6 +29,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ### Projects:
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
 -  [**120 years of Olympics History Athletes and Results - MS Excel Dashboard**](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard)
-
+-  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 </br>
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
