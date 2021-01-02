@@ -34,8 +34,8 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
 ### Currently working on projects and learning:-
--  I’m currently working on Digital Assistant.
--  I'm currently working on Titanic Dataset.
--  I'm currently learning the concepts of Data Science and Machine Learning and How to deploy the projects.
+-  Digital Assistant.
+-  Titanic Dataset.
+-  Learning the concepts of Data Science and Machine Learning and How to deploy the projects.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
