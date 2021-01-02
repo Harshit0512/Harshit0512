@@ -3,10 +3,6 @@
 I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. Currently, I’m a Student, pursuing B.tech in Computer Science and Engineering at Lovely Professional University. Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new concepts behind any technology.
 </br>
 
-### Projects currently working on:-
--  I’m currently working on Digital Assistant.
--  I'm currently working on Titanic Dataset.
-
 ### You can connect with me:-
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)](https://www.linkedin.com/in/harshit-shankhdhar-36a144168/)
@@ -37,5 +33,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**120 years of Olympics History Athletes and Results - MS Excel Dashboard**](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
-
+### Projects currently working on:-
+-  I’m currently working on Digital Assistant.
+-  I'm currently working on Titanic Dataset.
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
