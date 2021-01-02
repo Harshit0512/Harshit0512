@@ -33,8 +33,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**120 years of Olympics History Athletes and Results - MS Excel Dashboard**](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
-### Currently working on projects:-
+### Currently working on projects and learning:-
 -  I’m currently working on Digital Assistant.
 -  I'm currently working on Titanic Dataset.
+-  I'm currently learning the concepts of Data Science and Machine Learning and How to deploy the projects.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
