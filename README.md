@@ -14,6 +14,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 <a href="https://www.kaggle.com/harshitshankhdhar">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
+<a href="https://leetcode.com/Harshit124/">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
 
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
