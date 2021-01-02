@@ -50,6 +50,4 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  Titanic Dataset.
 -  Learning the concepts of Data Science and Machine Learning.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit0512)](https://github.com/Harshit0512/github-readme-stats)
-
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
