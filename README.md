@@ -17,9 +17,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 <a href="https://leetcode.com/Harshit124/">
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/harshit124">
-  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />
-</a>
 
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
