@@ -9,7 +9,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
 
-**Programming Languages and Tools:-
+### Programming Languages and Tools:-
 </br>
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
@@ -28,6 +28,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 </br>
 
-**Projects:
+### Projects:
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
