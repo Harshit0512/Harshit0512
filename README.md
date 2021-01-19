@@ -43,7 +43,8 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 </br>
 
 ### Data Science Projects:-
-## 1) Data Analysis and Visualization Projects:-
+#### 1) Data Analysis and Visualization Projects:-
+##### i) Using MS Excel:-
 -  [**120 years of Olympics History Athletes and Results - MS Excel Dashboard**](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard)
 
 ### Other Projects:-
