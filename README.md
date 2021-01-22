@@ -34,7 +34,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![R](https://img.shields.io/badge/-black?style=flat-square&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![MSEXCEL](https://img.shields.io/badge/MS%20Excel-darkgreen?style=flat-square&logo=ms-excel&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
+[![MS EXCEL](https://img.shields.io/badge/MS%20Excel-darkgreen?style=flat-square&logo=ms-excel&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Jupyter](https://img.shields.io/badge/Jupyter-darkred?style=flat-square&logo=jupyter&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 [![Numpy](https://img.shields.io/badge/Numpy-darkcyan?style=flat-square&logo=numpy&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
