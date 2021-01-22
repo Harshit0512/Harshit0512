@@ -55,7 +55,8 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
 ### Currently working on projects and learning:-
--  Titanic Dataset.
+-  Movie Recommendation System.
+-  Digital Assistant (Enhancing)
 -  Learning the concepts of Data Science and Machine Learning.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
