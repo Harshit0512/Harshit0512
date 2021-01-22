@@ -47,6 +47,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ##### i) Using MS Excel:-
 -  [**120 years of Olympics History Athletes and Results - MS Excel Dashboard**](https://github.com/Harshit0512/Harshit0512-120-years-of-Olympics-History-Athletes-and-Results---MS-Excel-Dashboard)
 
+##### ii) Using Python:-
+-  [**Data Analysis of Titanic Dataset**](https://github.com/Harshit0512/Titanic-Data-Analysis)
+
 ### Other Projects:-
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
