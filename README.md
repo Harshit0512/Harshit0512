@@ -21,7 +21,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
 
-<img align="right" alt="GIF" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/coding.gif" />
+<!<img align="right" alt="GIF" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/coding.gif" />>
 
 ### Programming Languages and Tools:-
 
