@@ -50,6 +50,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ##### ii) Using Python:-
 -  [**Data Analysis of Titanic Dataset**](https://github.com/Harshit0512/Titanic-Data-Analysis)
 
+### Recommendation Systems
+-  [**Series Recommendation System Using Weighted Hybrid Technique**](https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique)
+
 ### Other Projects:-
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
