@@ -57,6 +57,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
+### Kaggle Dataset
+-  [**TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-on-netflix-and-amazon-prime)
+
 ### Currently working on projects and learning:-
 -  Movie Recommendation System.
 -  Digital Assistant (Enhancing)
