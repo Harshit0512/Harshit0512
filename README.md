@@ -59,6 +59,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 ### Kaggle Dataset
 -  [**TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-on-netflix-and-amazon-prime)
+-  [**IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
 ### Currently working on projects and learning:-
 -  Movie Recommendation System.
