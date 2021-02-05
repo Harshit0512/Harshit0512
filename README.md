@@ -55,7 +55,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 ### Competitions
 -  [**Titanic - Machine Learning from Disaster**](https://github.com/Harshit0512/Titanic-Dataset)
-as
+Score :- 0.80382 (Top 4%)
 
 ### Other Projects:-
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
