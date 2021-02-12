@@ -50,17 +50,17 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ##### ii) Using Python:-
 -  [**Data Analysis of Titanic Dataset**](https://github.com/Harshit0512/Titanic-Data-Analysis)
 
-### Recommendation Systems
+### Recommendation Systems:-
 -  [**Series Recommendation System Using Weighted Hybrid Technique**](https://github.com/Harshit0512/Series-Recommendation-System-using-Weighted-Hybrid-Technique)
 
-### Competitions
+### Competitions:-
 -  [**Titanic - Machine Learning from Disaster**](https://www.kaggle.com/c/titanic/submissions) [Score :- 0.80382 (Top 4%)]
 
 ### Other Projects:-
 -  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
-### Kaggle Datasets
+### Kaggle Datasets:-
 -  [**TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-on-netflix-and-amazon-prime)
 -  [**IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
