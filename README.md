@@ -65,8 +65,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
 ### Currently working on projects and learning:-
--  Movie Recommendation System.
--  Digital Assistant (Enhancing)
+-  Series Recommendation System using Content Based Filtering.
 -  Learning the concepts of Data Science and Machine Learning.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
