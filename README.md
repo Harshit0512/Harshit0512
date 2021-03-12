@@ -61,8 +61,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
 ### Kaggle Datasets:-
--  [**TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-on-netflix-and-amazon-prime)
 -  [**IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
+-  [**IMDB TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-dataset)
+-  [**Netflix TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/netflix-and-amazon-prime-tv-series-dataset)
 
 ### Currently working on projects and learning:-
 -  Series Recommendation System using Content Based Filtering.
