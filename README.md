@@ -42,6 +42,8 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 </br>
 
+- **Datasets Expert** at **Kaggle** and ranked 235th in a datasets category.
+
 ### Data Science Projects:-
 #### 1) Data Analysis and Visualization Projects:-
 ##### i) Using MS Excel:-
