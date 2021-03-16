@@ -23,8 +23,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 <img align="right" alt="GIF" src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/coding.gif" />
 
--  [**My CV**](https://github.com/Harshit0512/CV/blob/main/Harshit%20CV.pdf)
-
 ### Programming Languages and Tools:-
 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
@@ -43,6 +41,8 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![Pandas](https://img.shields.io/badge/Pandas-indigo?style=flat-square&logo=pandas&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 </br>
+
+-  [**My CV**](https://github.com/Harshit0512/CV/blob/main/Harshit%20CV.pdf)
 
 - **Datasets Expert** at **Kaggle** and ranked **235th** in a datasets category.
 
