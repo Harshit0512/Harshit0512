@@ -60,10 +60,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 ### Competitions:-
 -  [**Titanic - Machine Learning from Disaster**](https://www.kaggle.com/c/titanic/submissions) [Score :- 0.80382 (Top 4%)]
 
-### Other Projects:-
--  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
--  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
-
 ### My Kaggle Datasets:-
 -  [**IMDB TV Series Dataset**](https://www.kaggle.com/harshitshankhdhar/tv-series-dataset)
 -  [**IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
@@ -71,6 +67,10 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 ### My Kaggle Notebooks:-
 -  [**EDA on IMDB Dataset of Top 1000 Movies**](https://www.kaggle.com/harshitshankhdhar/eda-on-imdb-movies-dataset)
+
+### Other Projects:-
+-  [**Finding a target in a live camera(Opencv module)**](https://github.com/Harshit0512/Python-opencv)
+-  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
 ### Currently working on projects and learning:-
 -  Series Recommendation System using Content Based Filtering.
