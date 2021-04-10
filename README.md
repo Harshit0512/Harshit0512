@@ -42,8 +42,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 </br>
 
--  [**My CV**](https://github.com/Harshit0512/CV/blob/main/Harshit%20CV.pdf)
-
 - **Datasets Expert** at **Kaggle** and ranked **235th** in a datasets category.
 
 ### Data Science Projects:-
