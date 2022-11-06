@@ -1,6 +1,6 @@
 ## Hey there!<img src="https://github.com/Harshit0512/Harshit0512/blob/main/images%20or%20gif/Hi.gif" width="30px">
 
-I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. Currently, I’m a Student, pursuing B.tech in Computer Science and Engineering at Lovely Professional University. Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new concepts behind any technology.
+I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from India. I'm 2022 batch pass out of B.tech in Computer Science and Engineering from Lovely Professional University. Currently, I’m Associate Software Engineer-1 at Highradius, Beside’s programming, I enjoy watching TV Series and playing Cricket. I loves to explore and learn new concepts of Data Science.
 </br>
 
 ### You can connect with me:-
@@ -14,9 +14,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 <a href="https://www.kaggle.com/harshitshankhdhar">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
-<a href="https://leetcode.com/Harshit124/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
 
 [![](https://visitor-badge.glitch.me/badge?page_id=Harshit0512.Harshit0512)](https://github.com/Harshit0512)
 </br>
@@ -29,11 +26,9 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![C](https://img.shields.io/badge/-green?style=flat-square&logo=c&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
 [![Tableau](https://img.shields.io/badge/-Tableau-black?style=flat-square&logo=tableau&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![R](https://img.shields.io/badge/-black?style=flat-square&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![MS EXCEL](https://img.shields.io/badge/MS%20Excel-darkgreen?style=flat-square&logo=ms-excel&logo=R&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 [![Jupyter](https://img.shields.io/badge/Jupyter-darkred?style=flat-square&logo=jupyter&link=https://github.com/Harshit0512)](https://github.com/Harshit0512)
 
@@ -42,7 +37,7 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 
 </br>
 
-- **Datasets Expert** at **Kaggle** and ranked **235th** in a datasets category.
+- **Datasets Expert** at **Kaggle**.
 
 ### Data Science Projects:-
 #### 1) Data Analysis and Visualization Projects:-
