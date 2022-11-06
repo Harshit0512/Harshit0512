@@ -66,7 +66,6 @@ I’m Harshit Shankhdhar, a Data Science and Machine Learning enthusiast from In
 -  [**Expense Tracker**](https://github.com/Harshit0512/Expense-Tracker)
 
 ### Currently working on projects and learning:-
--  Series Recommendation System using Content Based Filtering.
--  Learning the concepts of Data Science and Machine Learning.
+-  Currently working on Image Classification.
 
 ⭐️ From [Harshit Shankhdhar](https://github.com/Harshit0512)
